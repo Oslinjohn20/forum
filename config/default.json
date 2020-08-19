@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Oslin123:oslin123@wrenchknows.oitau.mongodb.net/WrenchKnows?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
